@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sing Up and login/1.0.0": {
+        "runtime": {
+          "Sing Up and login.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sing Up and login/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

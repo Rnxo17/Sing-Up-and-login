@@ -1,0 +1,14 @@
+C:\Users\renzo\OneDrive\Documentos\Visual Studio 2022\Projects\Sing Up and login\bin\Debug\net8.0\Sing Up and login.exe
+C:\Users\renzo\OneDrive\Documentos\Visual Studio 2022\Projects\Sing Up and login\bin\Debug\net8.0\Sing Up and login.deps.json
+C:\Users\renzo\OneDrive\Documentos\Visual Studio 2022\Projects\Sing Up and login\bin\Debug\net8.0\Sing Up and login.runtimeconfig.json
+C:\Users\renzo\OneDrive\Documentos\Visual Studio 2022\Projects\Sing Up and login\bin\Debug\net8.0\Sing Up and login.dll
+C:\Users\renzo\OneDrive\Documentos\Visual Studio 2022\Projects\Sing Up and login\bin\Debug\net8.0\Sing Up and login.pdb
+C:\Users\renzo\OneDrive\Documentos\Visual Studio 2022\Projects\Sing Up and login\obj\Debug\net8.0\Sing Up and login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renzo\OneDrive\Documentos\Visual Studio 2022\Projects\Sing Up and login\obj\Debug\net8.0\Sing Up and login.AssemblyInfoInputs.cache
+C:\Users\renzo\OneDrive\Documentos\Visual Studio 2022\Projects\Sing Up and login\obj\Debug\net8.0\Sing Up and login.AssemblyInfo.cs
+C:\Users\renzo\OneDrive\Documentos\Visual Studio 2022\Projects\Sing Up and login\obj\Debug\net8.0\Sing Up and login.csproj.CoreCompileInputs.cache
+C:\Users\renzo\OneDrive\Documentos\Visual Studio 2022\Projects\Sing Up and login\obj\Debug\net8.0\Sing Up and login.dll
+C:\Users\renzo\OneDrive\Documentos\Visual Studio 2022\Projects\Sing Up and login\obj\Debug\net8.0\refint\Sing Up and login.dll
+C:\Users\renzo\OneDrive\Documentos\Visual Studio 2022\Projects\Sing Up and login\obj\Debug\net8.0\Sing Up and login.pdb
+C:\Users\renzo\OneDrive\Documentos\Visual Studio 2022\Projects\Sing Up and login\obj\Debug\net8.0\Sing Up and login.genruntimeconfig.cache
+C:\Users\renzo\OneDrive\Documentos\Visual Studio 2022\Projects\Sing Up and login\obj\Debug\net8.0\ref\Sing Up and login.dll
